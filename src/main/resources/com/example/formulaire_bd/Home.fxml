@@ -16,7 +16,7 @@
                <items>
                   <MenuItem mnemonicParsing="false">
                      <graphic>
-                        <SplitMenuButton mnemonicParsing="false" text="Nouveau" textFill="#74f6e9">
+                        <SplitMenuButton mnemonicParsing="false" text="Nouveau" textFill="#333c3b">
                           <items>
                             <MenuItem fx:id="btnCreerUsers" mnemonicParsing="false" onAction="#CreationUser" text="Creer Utilisateur" />
                               <MenuItem fx:id="btnAFFicheMedecin" mnemonicParsing="false" onAction="#Affichage_Medecin" text="Afficher Medecin" />
